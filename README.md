@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esuriddick. Despite of having a background in Economics and Finance, I have always been interested in programming and 3D computer graphics.
+- 👋 Hi, I’m <b>esuriddick</b>. Despite of having a background in Economics and Finance, I have always been interested in programming and 3D computer graphics.
 My goal is to learn and share my work as I go with others that may be interested and want to get inspired.
 
 
